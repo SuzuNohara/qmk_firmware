@@ -2,19 +2,19 @@
 
 ## layout 0
 
-![unicorn-layout-0](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn1.PNG?alt=media&token=0268303c-228b-4593-88e3-2f98e156456f)
+![unicorn-layout-0](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn1.PNG?alt=media&token=d1ab1efb-adc9-4fbc-bad8-760bf5e20ab9)
 
 ## layout 1
 
-![unicorn-layout-1](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn2.PNG?alt=media&token=7cd958a4-dcde-4893-ac40-ed547095bd62)
+![unicorn-layout-1](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn2.PNG?alt=media&token=cc69d29e-40c1-4f49-bef9-78dfa1601f95)
 
 ## layout 2
 
-![unicorn-layout-2](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn3.PNG?alt=media&token=f2fe12cf-cca2-4bd7-898f-80f99744e8e9)
+![unicorn-layout-2](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn3.PNG?alt=media&token=dba6d3be-918a-4669-8045-55285525496c)
 
 ## layout 3
 
-![unicorn-layout-3](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn4.PNG?alt=media&token=57220a93-7b88-4cd3-b901-bba3a6df3d1b)
+![unicorn-layout-3](https://firebasestorage.googleapis.com/v0/b/smarthome-284201.appspot.com/o/unicorn4.PNG?alt=media&token=7d93d04b-f826-47ff-8451-d7e95d6ca2d3)
 
 ### Features
 
